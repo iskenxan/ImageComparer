@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageComparer1", "ImageComparer1\ImageComparer1.csproj", "{7F2E2997-1951-44AD-B5A5-2D2C757814EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F2E2997-1951-44AD-B5A5-2D2C757814EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2E2997-1951-44AD-B5A5-2D2C757814EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2E2997-1951-44AD-B5A5-2D2C757814EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2E2997-1951-44AD-B5A5-2D2C757814EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

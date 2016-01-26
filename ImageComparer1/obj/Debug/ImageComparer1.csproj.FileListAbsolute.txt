@@ -1,0 +1,13 @@
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\bin\Debug\ImageComparer1.exe.config
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\bin\Debug\ImageComparer1.exe
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\bin\Debug\ImageComparer1.pdb
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.csprojResolveAssemblyReference.cache
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\MainWindow.baml
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\MainWindow.g.cs
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\App.g.cs
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1_MarkupCompile.cache
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.g.resources
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.Properties.Resources.resources
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.csproj.GenerateResource.Cache
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.exe
+L:\Learning C#\Image Comparer\ImageComparer1\ImageComparer1\obj\Debug\ImageComparer1.pdb
